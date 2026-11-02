@@ -1,0 +1,6 @@
+{
+  "name": "COMET — Sistema Integrado de Avaliação de Mindset",
+  "description": "Sistema integrado de avaliação de mindset unificando 4 instrumentos de referência com relatórios multidimensionais, gráficos analíticos e coach de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
