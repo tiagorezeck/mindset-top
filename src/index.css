@@ -9,18 +9,18 @@
   }
 }
 
-/* Custom scrollbar for deep emerald theme */
+/* Custom scrollbars */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #091712;
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  background: #1e3a2f;
+  background: rgba(16, 185, 129, 0.2);
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #285040;
+  background: rgba(16, 185, 129, 0.4);
 }
